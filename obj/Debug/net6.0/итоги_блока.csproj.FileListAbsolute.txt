@@ -1,0 +1,15 @@
+C:\Users\kapko\Desktop\control_work\итоги_блока\bin\Debug\net6.0\итоги_блока.exe
+C:\Users\kapko\Desktop\control_work\итоги_блока\bin\Debug\net6.0\итоги_блока.deps.json
+C:\Users\kapko\Desktop\control_work\итоги_блока\bin\Debug\net6.0\итоги_блока.runtimeconfig.json
+C:\Users\kapko\Desktop\control_work\итоги_блока\bin\Debug\net6.0\итоги_блока.dll
+C:\Users\kapko\Desktop\control_work\итоги_блока\bin\Debug\net6.0\итоги_блока.pdb
+C:\Users\kapko\Desktop\control_work\итоги_блока\obj\Debug\net6.0\итоги_блока.csproj.AssemblyReference.cache
+C:\Users\kapko\Desktop\control_work\итоги_блока\obj\Debug\net6.0\итоги_блока.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapko\Desktop\control_work\итоги_блока\obj\Debug\net6.0\итоги_блока.AssemblyInfoInputs.cache
+C:\Users\kapko\Desktop\control_work\итоги_блока\obj\Debug\net6.0\итоги_блока.AssemblyInfo.cs
+C:\Users\kapko\Desktop\control_work\итоги_блока\obj\Debug\net6.0\итоги_блока.csproj.CoreCompileInputs.cache
+C:\Users\kapko\Desktop\control_work\итоги_блока\obj\Debug\net6.0\итоги_блока.dll
+C:\Users\kapko\Desktop\control_work\итоги_блока\obj\Debug\net6.0\refint\итоги_блока.dll
+C:\Users\kapko\Desktop\control_work\итоги_блока\obj\Debug\net6.0\итоги_блока.pdb
+C:\Users\kapko\Desktop\control_work\итоги_блока\obj\Debug\net6.0\итоги_блока.genruntimeconfig.cache
+C:\Users\kapko\Desktop\control_work\итоги_блока\obj\Debug\net6.0\ref\итоги_блока.dll
